@@ -1,0 +1,45 @@
+# Entorno virtual
+venv/
+.env/
+*.venv
+*.env
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración del entorno
+*.env
+*.ini
+*.cfg
+*.toml
+
+# Dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs y dumps
+*.log
+*.sqlite3
+*.db
+
+# Configuración de editores
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Caché de paquetes
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Otros
+.DS_Store
+Thumbs.db
+
